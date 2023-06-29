@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from nerual_net_two.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "nerual_net_two"
